@@ -1,6 +1,6 @@
 Catch my articles on : 
-HashNode - https://bigsmallbyte.hashnode.dev/
-Medium - https://medium.com/me/stories/public
+- HashNode - https://bigsmallbyte.hashnode.dev/
+- Medium - https://medium.com/me/stories/public
 
 - 👋 Hi, I’m Saad Mansuri.
 - 👀 I’m interested in improving my tech skills and discover new technologies
